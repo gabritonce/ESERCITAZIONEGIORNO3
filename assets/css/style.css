@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400&display=swap');
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    line-height: 1.2rem;
+    font-size: 0.8em;
+    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(#d14a10, rgb(255, 183, 0), #9dde10);
+}
+
+#immagine-logo {
+    text-align: center;
+
+}
+
+#immagine {
+    height: 40px;
+    margin-top: 6px;
+}
+
+#testo-header {
+    color: #428D8C;
+    background-color: antiquewhite;
+    text-align: center;
+    padding: 2px;
+    font-weight: bold;
+}
+
+#titolo {
+    color: #428D8C;
+    text-align: center;
+}
+
+#sottotitolo {
+    color: #428D8C;
+    margin-top: 1.7em;
+    margin-left: 450px;
+
+}
+
+.video {
+    text-align: center;
+}
+
+#video-child {
+    height: 300px;
+}
+
+#testo-riga-verticale {
+    margin-left: 450px;
+}
+
+#riga-verticale {
+    border-left: solid white;
+    margin: 0px;
+}
+
+#testo-verticale {
+    color: rgb(255, 98, 0);
+}
+
+.titolo-ingredients {
+    color: #428D8C;
+    margin-left: 450px;
+}
+
+.ingredients {
+    color: #428D8C;
+    margin-left: 450px;
+    font-style: italic;
+}
+
+.riga {
+    width: 36%;
+    margin-left: 450px;
+}
+
+.metodo {
+    color: #428D8C;
+    margin-left: 490px;
+}
+
+#form {
+    text-align: center;
+    color: #428D8C;
+}
+
+#iscriviti {
+    text-align: center;
+    color: #428D8C;
+
+}
+
+.input {
+    color: #428D8C;
+}
